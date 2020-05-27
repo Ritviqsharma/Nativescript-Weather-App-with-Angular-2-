@@ -1,5 +1,5 @@
 export const WEATHER_URL = 'http://api.openweathermap.org/data/2.5/';
-export const WEATHER_APIKEY = '0f8c7d27cbe2b706f480c1e1512c7c0b';
+export const WEATHER_APIKEY = '3ea4804f1c4f469e463d0d2f7a8daa25';
 export const CURRENT_WEATHER_PATH = 'weather';
 export const WEATHER_FORECAST_PATH = 'forecast/daily';
 export const GOOGLE_MAP_API_PATH = 'https://maps.googleapis.com/maps/api/timezone/json?location=';
@@ -36,7 +36,7 @@ export const WEATHER_ICONS = {
     'sunset': 0xf052
   }
 };
- 
+
 export const WIND_DIRECTIONS = [
   "North", "North-northeast", "Northeast",
   "East-northeast", "East", "East-southeast", "Southeast",

@@ -1,7 +1,7 @@
 {
-  "description": "NativeScript Application",
+  "description": "NativeScript Application By Ritviq sharma",
   "license": "SEE LICENSE IN <your-license-filename>",
-  "readme": "NativeScript Application",
+  "readme": "NativeScript Application By Ritviq sharma ",
   "repository": "<fill-your-repository-here>",
   "nativescript": {
     "id": "org.nativescript.Weather",
